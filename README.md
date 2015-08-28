@@ -1,2 +1,2 @@
 # testrepo
-A test repo
+Testing commit messages.
